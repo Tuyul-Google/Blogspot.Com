@@ -1,2 +1,1 @@
-# Blogspot.Com
-TIPS &amp; TRIK
+# Miggi
