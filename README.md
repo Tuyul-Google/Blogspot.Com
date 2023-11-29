@@ -18,7 +18,7 @@ pkg install openssl
 pip install requests colorama
 ```
 ```
-cd DiscordBot 
+cd DiscordBot
 ```
 ```
 python main.py
