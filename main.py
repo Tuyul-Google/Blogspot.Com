@@ -17,9 +17,9 @@ telegram = "@FreeDropLink"
 print("Telegram: " + telegram)
 youtube = "@FreeDropLink"
 print("Youtube: " + youtube)
-print("========================")
-print('TIDAK DI PERJUAL-BELIKAN')
-print("======================\n")
+print("=======================")
+print('TIDAK DIPERJUAL-BELIKAN')
+print("=====================\n")
 
 time.sleep(1)
 
