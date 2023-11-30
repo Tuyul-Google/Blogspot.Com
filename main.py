@@ -15,11 +15,11 @@ script = "Push Discord"
 print("Script: " + script)
 telegram = "@FreeDropLink"
 print("Telegram: " + telegram)
-youtube = "@FreeDropLink"
+youtube = " @FreeDropLink"
 print("Youtube: " + youtube)
 print("=======================")
 print('TIDAK DIPERJUAL-BELIKAN')
-print("=====================\n")
+print("=======================\n")
 
 time.sleep(1)
 
