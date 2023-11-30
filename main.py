@@ -8,18 +8,18 @@ print(" █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ ")
 print(" █░░║║║╠─║─║─║║║║║╠─░░█ ")
 print(" █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ ")
 print(" █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ \n")
-print("=========================================")
+print("=======================")
 author = "FreeDropLink"
 print("Author: " + author)
-script = "Push Rank Discord"
+script = "Push Discord"
 print("Script: " + script)
 telegram = "@FreeDropLink"
 print("Telegram: " + telegram)
 youtube = "@FreeDropLink"
 print("Youtube: " + youtube)
-print("===========================================")
-print('PERINGATAN : TIDAK UNTUK DI PERJUAL-BELIKAN')
-print("===========================================\n")
+print("========================")
+print('TIDAK DI PERJUAL-BELIKAN')
+print("======================\n")
 
 time.sleep(1)
 
